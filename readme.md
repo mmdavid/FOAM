@@ -4,8 +4,8 @@ In this repersitory you'll find script to rum the HMM databas that I developped 
 
 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4231724/
 
-The db itself is big: 7G and can be downloaded here: http://cbb.pnnl.gov/portal/software/FOAM.html
+The database itself is big: 7G and can be downloaded here: http://cbb.pnnl.gov/portal/software/FOAM.html
 
-Alog with the Ontology and the alignements (if you want to go dig into that). 
+Along with the Ontology and the alignements (if you want to go dig into that). 
 
 Otherwise, you'll just to dowbalod the db, and oyu can sue one of the script here to run your annotation. Have fun! Let me know if you have question. 
