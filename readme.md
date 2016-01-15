@@ -10,4 +10,4 @@ Along with the Ontology and the alignements (if you want to go dig into that).
 
 WARNING: the format of the HMM only work with HMMER 3.0.
  
-Otherwise, you will just have to download the database, and you can sue one of the scripts here to run your annotation. Have fun! Let me know if you have any question. 
+You will just have to download the database, and you can use one of the scripts here to run your annotation. Have fun! Let me know if you have any question, maudemdavid@gmail.com
