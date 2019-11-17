@@ -8,6 +8,6 @@ The database itself (7G) and can be downloaded here: http://cbb.pnnl.gov/portal/
 
 Along with the Ontology (important) and the alignements (if you want to go dig into that). 
 
-WARNING: the format of the HMM only work with HMMER 3.0. If you want to use it with another verison, email me, there are a few changes to do. 
+WARNING: the format of the HMM only work with HMMER 3.0. If you want to use it with another version, email me, there are a few changes to do. 
  
 You will just have to download the database, and you can use one of the scripts here to run your annotation. Have fun! Let me know if you have any question: maudemdavid@gmail.com
